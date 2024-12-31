@@ -25,4 +25,4 @@ dist-ssr
 
 # test files
 src/main.ts
-index.html
+*.html
